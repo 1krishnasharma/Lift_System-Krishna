@@ -76,11 +76,11 @@ WSGI_APPLICATION = 'Lift_System.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': ('Krishna'),
-        'USER': ('postgres'),
-        'HOST': ('localhost'),
+        'NAME': ('***'),
+        'USER': ('***'),
+        'HOST': ('***'),
         'PORT': 5432,
-        'PASSWORD':('psc2417000'),
+        'PASSWORD':('***'),
     }
 }
 
